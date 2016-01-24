@@ -2,7 +2,7 @@
 package main
 
 /*
-Copyright (C) 2015 J. Robert Wyatt
+Copyright (C) 2016 J. Robert Wyatt
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
@@ -27,7 +27,7 @@ import (
 	"errors"
 	"fmt"
 	"git.apache.org/thrift.git/lib/go/thrift"
-	"github.com/jamwyatt/ThriftTest/gen-go/ops"
+	"github.com/jamwyatt/Thrift-golang/gen-go/ops"
 	"os"
 	"strconv"
 	"time"
